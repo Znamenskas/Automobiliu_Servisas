@@ -1,0 +1,48 @@
+﻿@model AutomobiliuServisas.Models.Servisas
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Servisas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Pavadinimas" class="control-label"></label>
+                <input asp-for="Pavadinimas" class="form-control" />
+                <span asp-validation-for="Pavadinimas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Adresas" class="control-label"></label>
+                <input asp-for="Adresas" class="form-control" />
+                <span asp-validation-for="Adresas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vadovas" class="control-label"></label>
+                <input asp-for="Vadovas" class="form-control" />
+                <span asp-validation-for="Vadovas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Miestas" class="control-label"></label>
+                <input asp-for="Miestas" class="form-control" />
+                <span asp-validation-for="Miestas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

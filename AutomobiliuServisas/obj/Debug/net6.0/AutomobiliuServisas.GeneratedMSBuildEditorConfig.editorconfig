@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AutomobiliuServisas
+build_property.RootNamespace = AutomobiliuServisas
+build_property.ProjectDir = C:\Users\zvila\OneDrive\Stalinis kompiuteris\Mano mokslai\Dot Net\AutomobiliuServisas\AutomobiliuServisas\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\zvila\OneDrive\Stalinis kompiuteris\Mano mokslai\Dot Net\AutomobiliuServisas\AutomobiliuServisas
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/AutomobiliuServisas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b21vYmlsaXVTZXJ2aXNhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistrai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYWlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistrai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYWlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistrai/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYWlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistrai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYWlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistrai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYWlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Meistras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVpc3RyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Servisas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Servisas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Servisas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Servisas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Servisas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Specializacijas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YWNpamFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Specializacijas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YWNpamFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Specializacijas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YWNpamFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Specializacijas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YWNpamFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Specializacijas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YWNpamFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zvila/OneDrive/Stalinis kompiuteris/Mano mokslai/Dot Net/AutomobiliuServisas/AutomobiliuServisas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3epyf9a833
