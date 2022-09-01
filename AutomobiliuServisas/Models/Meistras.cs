@@ -8,6 +8,11 @@ namespace AutomobiliuServisas.Models
         public string Vardas { get; set; }
         public string Pavarde { get; set; }
         public string Nuotrauka { get; set; }
-        public int ServisasId { get; set; }
+
+        public  Servisas Servisas { get; set; }
+
+        public ICollection<MeistroReitingas> MeistroReitingas { get; set; }
+
+        public Specializacija Specializacija { get; set; }
     }
 }

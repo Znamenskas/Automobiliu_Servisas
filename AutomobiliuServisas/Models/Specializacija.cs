@@ -6,5 +6,7 @@ namespace AutomobiliuServisas.Models
         [Key]
         public int Id { get; set; }
         public string Pavadinimas { get; set; }
+
+        public ICollection<Meistras> Meistras  { get; set; }
     }
 }

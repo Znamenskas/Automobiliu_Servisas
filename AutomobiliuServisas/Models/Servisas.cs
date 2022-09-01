@@ -10,5 +10,7 @@ namespace AutomobiliuServisas.Models
         public string Adresas { get; set; }
         public string Vadovas { get; set; }
         public string Miestas { get; set; }
+
+        public ICollection<Meistras> Meistras { get; set; }
     }
 }

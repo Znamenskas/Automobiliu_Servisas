@@ -11,6 +11,8 @@ namespace AutomobiliuServisas.Models
 
         public string Slaptazodis { get; set; }
 
+        public ICollection<MeistroReitingas> MeistroReitingas { get; set; }
+
 
 
     }
