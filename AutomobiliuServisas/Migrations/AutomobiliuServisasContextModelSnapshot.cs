@@ -94,6 +94,31 @@ namespace AutomobiliuServisas.Migrations
 
                     b.ToTable("Specializacija");
                 });
+
+            modelBuilder.Entity("AutomobiliuServisas.Models.Vartotojas", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("ElektroninisPastas")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PrisijungimoVardas")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Slaptazodis")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Vartotojas");
+                });
 #pragma warning restore 612, 618
         }
     }

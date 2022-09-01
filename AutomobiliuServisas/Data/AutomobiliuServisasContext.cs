@@ -19,5 +19,7 @@ namespace AutomobiliuServisas.Data
         public DbSet<AutomobiliuServisas.Models.Meistras>? Meistras { get; set; }
 
         public DbSet<AutomobiliuServisas.Models.Specializacija>? Specializacija { get; set; }
+
+        public DbSet<AutomobiliuServisas.Models.Vartotojas>? Vartotojas { get; set; }
     }
 }
