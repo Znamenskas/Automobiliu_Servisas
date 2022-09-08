@@ -28,12 +28,14 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Nuotrauka)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ServisasId)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ServisasId)
-        </dd>
+        <form action="Meistras/Ivertinimas" method="POST">
+            <input type="number" name="balas"/>
+            <input type="text" name="komentaras"/>
+            <input type="submit" value="Ivertinimas"/>
+            </form>
+
+        
+        
     </dl>
 </div>
 <div>

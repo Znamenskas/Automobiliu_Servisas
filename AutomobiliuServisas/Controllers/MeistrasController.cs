@@ -19,6 +19,7 @@ namespace AutomobiliuServisas.Controllers
             _context = context;
         }
 
+
         // GET: Meistras
         public async Task<IActionResult> Index()
         {
@@ -161,5 +162,12 @@ namespace AutomobiliuServisas.Controllers
         {
           return (_context.Meistras?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+
+        //GET: Ivertinimas
+        public string Ivertinimas ()
+        {
+            return "LABAI-PUIKU";
+        }
+    
     }
 }
